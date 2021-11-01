@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=SaharCarmel&hide_border=true" />
 
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borda&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
