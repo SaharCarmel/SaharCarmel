@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<img width="53%"  src="https://github-readme-stats.vercel.app/api?username=SaharCarmel&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 
-<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=SaharCarmel&hide_border=true" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaharCarmel&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+<img width="43%"  src="https://github-profile-trophy.vercel.app/?username=ryo-ma" />
 
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borda&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
